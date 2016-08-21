@@ -1,5 +1,9 @@
 # reference/coordinate.md changelog
 
+## 9383622 [0.2.2] 20160820
+
+  1. typo
+
 ## c3634d1 [0.2.1] 20160820
  
   1. remove ghost of coordinate.md
