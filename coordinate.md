@@ -7,6 +7,7 @@
   5. no matter how complex the action, we can understand it, if we can read the source
   6. our example begins with an action that is successfully executed
   7. in describing its pieces from programming to execution, we learn what we need to understand the returned value
+  8. a function that has completed has worked within its design parameters at least once
   
   
 
