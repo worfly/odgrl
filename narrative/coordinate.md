@@ -11,7 +11,7 @@
   9. in learning how to program this object, you will only learn what you need to know
   10. much of what can be know is purposely left for deeper introspection
   11. furthermore, much of what can be known exists but is unknown
-  12. our objective is not to know everything, just that which we can described
+  12. our objective is not to know everything, just that which we can describe
 
  
   
