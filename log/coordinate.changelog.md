@@ -1,5 +1,12 @@
 # reference/coordinate.md changelog
 
+Notable changes to this project are documented in this 
+file. This dcoumnet adheres to [Semantic Versioning](http://semver.org). 
+
+Some not so notable changes are also documented here, because I get 
+confused. it looks like checkouts, without merges, makes it hard to 
+figure out how information is flowing around the branches. 
+
 ## c3634d1 [0.2.1] 20160820
  
   1. remove ghost of coordinate.md
