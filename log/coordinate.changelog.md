@@ -1,5 +1,8 @@
 # reference/coordinate.md changelog
 
+## c3634d1 [0.1.1] 20160820
+ 
+  1. remove ghost of coordinate.md
 
 ## 94078c2 [0.1.1] 20160820
 
