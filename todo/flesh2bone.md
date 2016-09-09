@@ -1,5 +1,5 @@
 
-c1 = obso
+c1 = obsrl    
 c2 = odgrl
 
 p1 = '''i worried before odgrl was born. i worried obsrl would be jealous.
