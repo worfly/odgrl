@@ -10,4 +10,9 @@ ever since, obso and odgrl are rarely apart.'''
 v1 = '''it is not that they are alike, or even like minded. they are that 
 beautiful and tender combination of compliments.'''
 
+e1 = '''our greatest failure is the one we experience just before we die.
+our body itself obsoletes in a world filled with moving living 
+things. everything eventually stops.'''
 
+r1 = '''reflecting on my course, i can see obso is the inevitable
+harbinger of my demise. holding her in his arms, he makes me obsolete'''
