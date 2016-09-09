@@ -1,8 +1,11 @@
 # reference/coordinate.md changelog
 
-## 9383622 [0.2.2] 20160820
+Notable changes to this project are documented in this 
+file. This dcoumnet adheres to [Semantic Versioning](http://semver.org). 
 
-  1. typo
+Some not so notable changes are also documented here, because I get 
+confused. it looks like file checkouts, without merges, obfuscates 
+how information is flowing around the branches. 
 
 ## c3634d1 [0.2.1] 20160820
  
