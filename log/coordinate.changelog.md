@@ -7,6 +7,10 @@ Some not so notable changes are also documented here, because I get
 confused. it looks like file checkouts, without merges, obfuscates 
 how information is flowing around the branches. 
 
+## 9383622 [0.2.2] 20160820
+
+  1. typo
+
 ## c3634d1 [0.2.1] 20160820
  
   1. remove ghost of coordinate.md
